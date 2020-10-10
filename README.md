@@ -8,12 +8,12 @@
 
 ### ターミナル等の設定読み込み
 <pre>
-git clone https://github.com/yuyu1023/dotfiles/
+git clone https://github.com/hrk-kwn/dotfiles/
 cd dotfiles
 ./setup.sh
 </pre>
 
 <pre>
-bash -c "$(curl -L raw.githubusercontent.com/yuyu1023/dotfiles/master/setup.sh
+bash -c "$(curl -L raw.githubusercontent.com/hrk-kwn/dotfiles/master/setup.sh
 </pre>
 
